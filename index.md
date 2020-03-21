@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html ng-app="app" >
+<head>
+	  <meta name="author" content="Juliana Castro" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta
+      property="og:image"
+      content="http://julianacastro.co/wp-content/uploads/2020/03/but-at-least-we-have.png"
+    />
+    <link rel="shortcut icon" href="http://julianacastro.co/wp-content/uploads/2020/03/icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css" />
+	<title>The world is ending and sickness is real but at least we have </title>
+	<img src="http://julianacastro.co/wp-content/uploads/2020/03/favicon.png" width="70px" style="margin:10px">
+	<p class="language"> ENG / <a href="https://juliacastrov.github.io/esperanza/"> ESP</a> </p>
+	</head>
+<body class="body">
+	<h1 class="heading"> <strong>The world is ending and sickness is real</strong> but at least we have...</h1>
+
+<div class="div-block-2">
+
+	<div id="quoteDisplay">
+</div>
+
+	</div>
+	<div class="div-block">
+
+	<button class="button" onclick="newQuote()">I NEED MORE HOPE
+		</button>
+	<script src="javascript.js"></script></div>
+
+	<footer id="footer" class="footer">
+		
+		<center>[Designed by <a href="http://twitter.com/juliacastrov">Juli</a> based on <a href="https://www.are.na/juliana-castro/the-world-is-ending-and-sickness-is-real-but-at-least-we-have">this</a>]</center>
+	</footer>
+
+</body>
+
+</html>
