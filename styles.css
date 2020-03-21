@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,700;1,400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+	
 .body{
 	padding-top: 0px;
 	background-color: #f6c923;
@@ -14,27 +15,33 @@
 .container {
 	font: 'IBM Plex Mono', monospace;
 	color:#000;
-	font-size: 50px;
+	font-size: 20px;
 	font-height: 55px;
 	text-align: left;
 	font-weight: 400;
 }
 
 .heading {
-	margin-top: 120px;
+	margin-top: 13%;
 	margin-right:20px;
 	margin-left: 15px;
 	margin-bottom: 58px;
-	padding:15px 10px 40px 20px;
+	padding:9px 9px 35px 12px;
 	float:center;
 	clear: left;
 	border: 3px solid #000;
 	background-color: #fff;
 	box-shadow: 10px 10px 15px 4px #180bff;
 	font-family: 'IBM Plex Mono', monospace;
-	font-size: 36px;
-	line-height: 40px;
+	font-size: 33px;
+	line-height: 32px;
 	font-weight: 400;
+}
+
+.language {
+	float:right;
+	font-family: 'IBM Plex Mono', monospace;
+	font-size:12px;
 }
 
 .button {
@@ -60,18 +67,17 @@
 	text-align: center;
 }
 
-
 .div-block-2 {
 	margin-top: -88px;
 	margin-right: 40px;
 	margin-left: 30px;
-	padding:20px 10px 20px 10px;
+	padding:15px 10px 15px 10px;
 	border: 3px solid #000;
 	background-color:#fff;
 	box-shadow: 4px 4px 7px 2px #1fbe2f;
 	font-family: 'IBM Plex Mono', monospace;
-	font-size: 27px;
-	line-height: 29px;
+	font-size: 25px;
+	line-height: 27px;
 	font-weight: 400;
 
 }
@@ -96,20 +102,6 @@
 }
 
 
-.utility-page-content {
-	display:-webkit-box;
-	display:-webkit-flex;
-	display:-ms-flexbox;
-	display:flex;
-	width:260px;
-	-webkit-box-orient:vertical;
-	-webkit-box-direction:normal;
-	-ms-flex-direction:column;
-	flex-direction: column;
-	text-align: center;
-}
-
-
 .footer {
 	text-align: center;
 	bottom: 5px;
@@ -121,8 +113,22 @@
 }
 
 
-
 @media screen and (max-width: 479px;) {
+
+	.div-block-2 {
+	margin-top: -88px;
+	margin-right: 40px;
+	margin-left: 30px;
+	padding:20px 10px 20px 10px;
+	border: 3px solid #000;
+	background-color:#fff;
+	box-shadow: 4px 4px 7px 2px #1fbe2f;
+	font-family: 'IBM Plex Mono', monospace;
+	font-size: 27px;
+	line-height: 29px;
+	font-weight: 400;
+
+}
 	
 	.heading {
 		margin:122px 14px 47px;
