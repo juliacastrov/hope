@@ -74,7 +74,14 @@ var quotes = ['tv series where the world is not ending and nobody is either wear
 	'yellow leaves',
 	'back scratches',
 	'queers holding hands in public',
-	'candles and company when the power goes out'
+	'candles and company when the power goes out',
+	'the ability to change our thoughts and perspectives',
+	'shared moments with those we’ve known for so long',
+	'deciding it is the opportunity for a new beginning',
+	'the potential to help others by changing our actions in the smallest ways',
+	'the ability to envision and recognize the potential for a better future',
+	'the ability take action towards it in the way we interact with the world, and people in our lives, every day from here on out'
+		 
 
 ]
 
